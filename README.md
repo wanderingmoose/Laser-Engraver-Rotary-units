@@ -7,4 +7,4 @@ https://www.thingiverse.com/thing:5357180
 
 V3 is still using 2040 and 2020 aluminum vslot, but make new custom plates, also did the design to use one stepper motor and belts.
 https://www.thingiverse.com/thing:5383385
-![](Rotary V3/Pictures/20220520_160859-800.jpg)
+![](Rotary%20V3/Pictures/20220520_160859-800.jpg)
